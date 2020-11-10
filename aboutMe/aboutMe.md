@@ -9,7 +9,7 @@
 [https://twitter.com/Mendux1](https://twitter.com/Mendux1)
 
 
-I am a second-year student at KCA University, doing Bachelor of Science in Software Development. Am a technology enthusiast who is committed to learning and interested in technology innovations, with aptitude for computer programming.
+I am a second-year student at KCA University, doing Bachelor of Science in Software Development. I am a technology enthusiast who is committed to learning and interested in technology innovations, with aptitude for computer programming.
 
 ## Skills:
 
